@@ -1,0 +1,31 @@
+{
+  "project_info": {
+    "project_number": "173476749133",
+    "project_id": "tinctureaim",
+    "storage_bucket": "tinctureaim.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173476749133:ios:b420c475868b254344e104",
+        "android_client_info": {
+          "package_name": "com.forwrum.tincture"
+        }
+      },
+      "api_key": [
+        {
+          "current_key": "AIzaSyALmWGBTXdr6zwHpzdhhWjn1OZ78wDmtAk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 0
+        },
+        "appinvite_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
